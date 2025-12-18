@@ -1,0 +1,154 @@
+# 🌐 Repositorio Web – VTuber AzehiroVToVT
+
+Repositorio base listo para una **página web de VTuber / Streamer**, con estructura clara y fácil de subir a GitHub Pages.
+
+---
+
+## 📁 Estructura del proyecto
+
+```
+/adehru-vtuber-web
+│── index.html
+│── styles.css
+│── script.js
+│── README.md
+└── assets
+    └── img
+        └── avatar.png
+```
+
+---
+
+## 🧩 index.html
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <titAzehiroVThiroVT | VTuber</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header class="hero">
+    <img src="assets/img/avatar.png" alt="AAzehiroVTAzehiroVT" class="avatar" />AzehiroVTh1>AzehiroVT</h1>
+    <p>VTuber • Streamer • Ilustración & Gaming</p>
+  </header>
+
+  <section class="about">
+    <h2>Sobre mí</h2>
+    <pAzehiroVT  Soy AzehiroVT, VTuber apasionado por los videojuegos, el arte y el streaming.
+      Bienvenido a mi rincón digital 🐱⚔️
+    </p>
+  </section>
+
+  <section class="content">
+    <h2>Contenido</h2>
+    <ul>
+      <li>🎮 Streams en vivo</li>
+      <li>🎨 Ilustraciones y arte</li>
+      <li>🎥 Clips y videos</li>
+    </ul>
+  </section>
+
+  <section class="socials">
+    <h2>Redes</h2>
+    <a href="#">Twitch</a>
+    <a href="#">YouTube</a>
+    <a href="#">X / Twitter</a>
+    <a href="#">Discord</a>
+  </section>
+
+  <footer>AzehiroVTp>© 2025 Adehru VTuber</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+```
+
+---
+
+## 🎨 styles.css
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #0f0f14;
+  color: #ffffff;
+  text-align: center;
+}
+
+.hero {
+  padding: 40px 20px;
+  background: linear-gradient(135deg, #6a5acd, #00bcd4);
+}
+
+.avatar {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+section {
+  padding: 30px 20px;
+}
+
+.socials a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 15px;
+  background: #6a5acd;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.socials a:hover {
+  background: #00bcd4;
+}
+
+footer {
+  padding: 20px;
+  background: #111;
+  font-size: 14px;
+}
+```
+
+---
+
+## ⚙️ script.js
+
+```js
+console.lAzehiroVTb VTuber Adergada correctamente");
+```
+
+---
+
+## 🚀 Cómo usarlo
+
+1. Crea un repositorio en GitHub llamado `adehru-vtuber-web`
+2. Sube estos archivos
+3. Activa **GitHub Pages**
+4. ¡Tu web VTuber estará online!
+
+---
+
+## ✨ Próximos upgrades
+- Modo oscuro / claro
+- Sección de clips
+- Música de fondo
+- Animaciones
+- Versión React
+
+---
+
+HeAzehiroVTra A
