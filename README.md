@@ -1,8 +1,6 @@
 # 🌐 AzehiroVT – Página Web Oficial
 
-Repositorio de la **página web oficial de AzehiroVT**, VTuber y creador de contenido enfocado en **streaming, ilustración y gaming**.
-
-La web está publicada usando **GitHub Pages**.
+Repositorio de la **página web oficial de AzehiroVT**, VTuber y creador de contenido enfocado en **streaming y gaming**.
 
 ---
 
@@ -11,10 +9,19 @@ La web está publicada usando **GitHub Pages**.
 
 ---
 
+## 🌐 Redes sociales
+- 🎮 **Twitch:** [https://www.twitch.tv/adehruu](https://www.twitch.tv/adehruu)
+- ▶️ **YouTube:** [https://www.youtube.com/@azehirovt  ](https://www.youtube.com/@Azehiro)
+- 🐦 **X / Twitter:** [https://x.com/azehirovt  ](https://x.com/Azehiro_)
+- 💬 **Kick:** [https://kick.com/adehru ](https://kick.com/adehru )
+
+*(Si alguna red aún no está activa, se actualizará más adelante)* :3
+
+---
+
 ## 🧩 Estructura del proyecto
 
 
----
 
 ## 🚀 Tecnologías usadas
 - HTML5
