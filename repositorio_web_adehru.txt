@@ -1,0 +1,83 @@
+# 🌐 Repositorio de Página Web
+
+Este repositorio contiene la estructura base para una **página web moderna**, ideal para portafolio, streamer o VTuber.
+
+---
+
+## 📁 Estructura del proyecto
+
+```
+/mi-pagina-web
+│── index.html
+│── about.html
+│── contact.html
+│
+├── /assets
+│   ├── /css
+│   │   └── styles.css
+│   ├── /js
+│   │   └── main.js
+│   ├── /img
+│   │   └── logo.png
+│   └── /fonts
+│
+├── /components
+│   ├── header.html
+│   └── footer.html
+│
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 🧩 Descripción de archivos
+
+- **index.html** → Página principal
+- **about.html** → Sobre ti / tu proyecto
+- **contact.html** → Contacto o redes
+- **assets/css/styles.css** → Estilos CSS
+- **assets/js/main.js** → Funcionalidad JavaScript
+- **assets/img/** → Imágenes
+- **components/** → Partes reutilizables (header, footer)
+
+---
+
+## 🚀 Tecnologías usadas
+- HTML5
+- CSS3
+- JavaScript
+
+(Opcional a futuro: React, Tailwind, Astro, etc.)
+
+---
+
+## 📌 Uso
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/tu-usuario/mi-pagina-web.git
+```
+
+2. Abre `index.html` en tu navegador.
+
+---
+
+## 🎮 Enfoque del proyecto
+
+- Portafolio personal
+- Página para streamer / VTuber
+- Branding personal
+
+---
+
+## ✨ Autor
+Adehru
+
+---
+
+Si quieres, puedo:
+- crear el **index.html completo**
+- hacerlo estilo **VTuber / streamer**
+- adaptarlo a **GitHub Pages**
+- o pasarlo a **React**
