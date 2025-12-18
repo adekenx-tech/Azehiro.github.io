@@ -13,3 +13,35 @@ La web está publicada usando **GitHub Pages**.
 
 ## 🧩 Estructura del proyecto
 
+
+---
+
+## 🚀 Tecnologías usadas
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+## 🎮 Contenido
+- Streams en vivo
+- Ilustraciones y arte
+- Clips y videos
+- Redes sociales
+
+---
+
+## 📌 Próximas mejoras
+- 🌙 Modo oscuro / claro
+- 🎵 Música de fondo
+- 🎬 Sección de clips
+- ✨ Animaciones
+- 🧠 Lore del personaje VTuber
+
+---
+
+## © Autor
+**AzehiroVT**  
+VTuber • Streamer • Ilustración & Gaming  
+© 2025
