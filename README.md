@@ -1,4 +1,7 @@
 Azehiro.github.io
+│── index.html
+│── styles.css
+│── script.js
 └── assets
     └── img
-        └── Adehru.png
+        └── avatar.png
