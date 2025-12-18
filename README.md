@@ -26,7 +26,6 @@ La web está publicada usando **GitHub Pages**.
 
 ## 🎮 Contenido
 - Streams en vivo
-- Ilustraciones y arte
 - Clips y videos
 - Redes sociales
 
